@@ -1,9 +1,9 @@
 {
-  "name": "webpack-chain-v5",
-  "version": "1.0.2-beta.0",
+  "name": "webpack-5-chain",
+  "version": "8.0.1",
   "main": "src/Config.js",
   "typings": "types/index.d.ts",
-  "repository": "ezreal09/webpack5-chain",
+  "repository": "sorrycc/webpack-chain",
   "keywords": [
     "webpack",
     "config",
